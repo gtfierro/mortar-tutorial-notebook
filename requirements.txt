@@ -1,0 +1,7 @@
+pymortar>=1.0.0
+grpcio
+googleapis-common-protos
+grpcio-tools
+pandas
+matplotlib
+numpy
