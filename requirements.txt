@@ -1,4 +1,4 @@
-pymortar>=1.0.0
+pymortar>=1.0.4
 grpcio
 googleapis-common-protos
 grpcio-tools
